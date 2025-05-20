@@ -19,7 +19,7 @@ Gender – Basic demographic info
 Investment Advisor – Indicates if a client is assigned to an advisor
 Period – Time reference for reporting
 
-🧠 Tech Stack
+💻 Tech Stack
 Python - Data cleaning and EDA
 MySQL -	Querying and joining relational tables
 Power BI -	Building interactive dashboards
