@@ -29,13 +29,14 @@ The dataset includes multiple relational tables linked by primary and foreign ke
 
 ## 💻 Tech Stack  
 
-| Tool             | Purpose                                  |
-|------------------|-------------------------------------------|
-| Python           | Data cleaning and EDA                     |
-| MySQL            | Querying and joining relational tables    |
-| Power BI         | Building interactive dashboards           |
-| Excel            | Data formatting for dashboard integration |
-| Google Colab     | Documenting exploration and analysis      |
+| Tool         | Purpose                                          |
+|--------------|--------------------------------------------------|
+| Python       | Data cleaning and EDA                            |
+| MySQL        | Querying and joining relational tables           |
+| Power BI     | Building interactive dashboards                  |
+| Excel        | Data formatting for dashboard integration        |
+| Google Colab | Performing and documenting exploratory analysis  |
+
 
 ---
 
