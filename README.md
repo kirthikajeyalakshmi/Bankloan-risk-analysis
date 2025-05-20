@@ -13,18 +13,18 @@ The dashboard includes visuals like bar charts, pie charts, and KPIs, making it 
 
 📂 Dataset Overview
 The dataset includes multiple relational tables linked by primary and foreign keys:
-Banking Relationship – Account types, loan data, deposit balances
-Client-Banking – Connects clients to their banking activities over time
-Gender – Basic demographic info
-Investment Advisor – Indicates if a client is assigned to an advisor
-Period – Time reference for reporting
+Banking Relationship – Account types, loan data, deposit balances.
+Client-Banking – Connects clients to their banking activities over time.
+Gender – Basic demographic info.
+Investment Advisor – Indicates if a client is assigned to an advisor.
+Period – Time reference for reporting.
 
 💻 Tech Stack
-Python - Data cleaning and EDA
-MySQL -	Querying and joining relational tables
-Power BI -	Building interactive dashboards
-Excel -	Data formatting for dashboard integration
-Jupyter Notebook -	Documenting exploration and analysis
+Python - Data cleaning and EDA.
+MySQL -	Querying and joining relational tables.
+Power BI -	Building interactive dashboards.
+Excel -	Data formatting for dashboard integration.
+Jupyter Notebook -	Documenting exploration and analysis.
 
 📈 Impact of the Project
 Helps identify customers more likely to repay loans using income and deposit behavior
